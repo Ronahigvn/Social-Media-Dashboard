@@ -1,4 +1,5 @@
 📊 Sosyal Medya Dashboard
+
 Bu proje, HTML, CSS ve JavaScript kullanılarak oluşturulmuş basit bir Sosyal Medya Etkileşim Dashboard'udur. Projede Chart.js kütüphanesi kullanılarak üç farklı sosyal medya platformu (Instagram, Facebook ve Snapchat) için günlük etkileşim verileri görselleştirilmiştir.
 
 🔹 Özellikler:
