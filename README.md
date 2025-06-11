@@ -1,6 +1,6 @@
 📊 Sosyal Medya Dashboard
 
-Bu proje, HTML, CSS ve JavaScript kullanılarak oluşturulmuş basit bir Sosyal Medya Etkileşim Dashboard'udur. Projede Chart.js kütüphanesi kullanılarak üç farklı sosyal medya platformu (Instagram, Facebook ve Snapchat) için günlük etkileşim verileri görselleştirilmiştir.
+Bu proje, HTML, CSS ve JavaScript kullanılarak oluşturup basit bir Sosyal Medya Etkileşim Dashboard'udur. Projede Chart.js kütüphanesi kullanılarak üç farklı sosyal medya platformu (Instagram, Facebook ve Snapchat) için günlük etkileşim verileri görselleştirdim.
 
 🔹 Özellikler:
 Instagram, Facebook ve Snapchat için ayrı ayrı grafikler
@@ -11,7 +11,7 @@ Duyarlı (responsive) tasarım
 
 Grafikler arası geçişi sağlayan etkileşimli butonlar
 
-Harici kütüphane olarak sadece Chart.js kullanılmıştır
+Harici kütüphane olarak sadece Chart.js kullandim.
 
 🛠️ Kullanılan Teknolojiler:
 HTML5: Sayfa yapısı ve içerik
